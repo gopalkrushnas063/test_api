@@ -1,14 +1,1458 @@
 {
-    "products": [
-      {
-        "id": "4",
-        "name": "Shivam",
-        "price": "78541125"
-      },
-      {
-        "id": "5",
-        "name": "Gopal",
-        "price": "10"
-      }
-    ]
-  }
+  "activeware": [
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/206108b3-0b08-432e-a6cd-e4639915d091.jpeg?h=365&w=240&dpr=2",
+      "brandName": "MARIKA",
+      "type": "Abigail Pocket Capri Leggings",
+      "price": "$22.99",
+      "off": "(58% off)",
+      "cost": "$55.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/70de4236-221c-4dc3-8401-f09d20c09fa6.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Z by Zella",
+      "type": "Re-Gen Cropped Running Leggings",
+      "price": "$15.93",
+      "off": "(45% off)",
+      "cost": "$28.97",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/0202f7f8-5b79-4aae-85c9-5fe09f0a2a7b.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Onzie",
+      "type": "High Rise Capris",
+      "price": "$27.60",
+      "off": "(60% off)",
+      "cost": "$69",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/cc19d827-7a7d-4d48-8d7a-5c0e1a419115.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Inerzia",
+      "type": "High Waisted Leggings-Pack of 2",
+      "price": "$39.97",
+      "off": "(70% off)",
+      "cost": "$134.98",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/65a23864-f33f-4b6d-a32a-8a180b6fd484.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Adidas",
+      "type": "AEROREADY Designed 2 Move Woven Shorts",
+      "price": "$21.97",
+      "off": "(26% off)",
+      "cost": "$30",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/df689f9e-0dcc-4fd5-a62a-bde61fd0c3c1.jpeg?h=365&w=240&dpr=2",
+      "brandName": "HAWKE & CO",
+      "type": "Hooded Packable Down Jacket",
+      "price": "$49.97",
+      "off": "(74% off)",
+      "cost": "$195",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/496d6c40-c7f8-4f72-ab09-52249d034457.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Adidas",
+      "type": "Long Sleeve T-Shirt",
+      "price": "$24.99",
+      "off": "(16% off)",
+      "cost": "$30",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/a645a4c5-4f04-4ce0-a9ae-63bb7b8982e1.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Zella",
+      "type": "Hybrid Tech Commuter Pants",
+      "price": "$32.97",
+      "off": "(58% off)",
+      "cost": "$79.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/757d91b3-7082-4c6d-ba97-d4d6bff01627.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Adidas",
+      "type": "Kid's (Boys) Linear Logo Joggers",
+      "price": "$21.97",
+      "off": "(45% off)",
+      "cost": "$40.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/d55fd7aa-6dc3-43f6-888c-9b146812c42e.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Z by Zella",
+      "type": "Kid's (Boys) Walsh Fleece Hoodie",
+      "price": "$25.97",
+      "off": "(46% off)",
+      "cost": "$45.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/943fb6df-339d-46cd-930b-e6a1a98ffb8d.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Z by Zella",
+      "type": "Kid's (Girls) Sport Bra and Leggings Set",
+      "price": "$22.97",
+      "off": "(45% off)",
+      "cost": "$42.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/034015aa-9225-45d1-87ad-26ced36f8f5c.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Nike",
+      "type": "Kid's (Girls) Club Tank and Jersey Short Set",
+      "price": "$22.97",
+      "off": "(39% off)",
+      "cost": "$38.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/4a8645f7-075b-49af-8d9e-c7e847d7590e.jpeg?h=365&w=240&dpr=2",
+      "brandName": "ZEROXPOSUR",
+      "type": "Colardo Mid Top Waterproof Hikin Shoes (Women)",
+      "price": "$69.97",
+      "off": "(30% off)",
+      "cost": "$100",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/446b6bd3-5d50-453a-87da-b642b594bcca.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Nike",
+      "type": "Court Legacy Mule(Women)",
+      "price": "$43",
+      "off": "(21% off)",
+      "cost": "$55",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/7d23bd35-df5f-4cf9-bb7d-2b055428ddff.jpeg?h=365&w=240&dpr=2",
+      "brandName": "PUMA",
+      "type": "Cool Cat Sport Slide Sandal (Women)",
+      "price": "$16.97",
+      "off": "(43% off)",
+      "cost": "$30",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/28a68a23-5cd9-41c4-9e08-c1859ef0853e.jpeg?h=365&w=240&dpr=2",
+      "brandName": "PUMA",
+      "type": "Vicky V3 Mid Sneaker (Women)",
+      "price": "$45.97",
+      "off": "(29% off)",
+      "cost": "$65.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/89ecc22a-d2b3-4044-8132-aaff098df12b.jpeg?h=365&w=240&dpr=2",
+      "brandName": "KEEN",
+      "type": "Revel IV Mid Polar Waterproof Boot (Men)",
+      "price": "$119.97",
+      "off": "(40% off)",
+      "cost": "$200",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/02bdd46f-83cd-4a53-b94d-5b74fcc3fdab.jpeg?h=365&w=240&dpr=2",
+      "brandName": "PUMA",
+      "type": "Electron 2.0 Open Road Atheletic Sneaker (Men)",
+      "price": "$45.97",
+      "off": "(34% off)",
+      "cost": "$70",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/2456402f-8720-429d-b5c7-ebf405b8cc35.jpeg?h=365&w=240&dpr=2",
+      "brandName": "KEEN",
+      "type": "NewPort H2 Sandal (Men)",
+      "price": "$96.97",
+      "off": "(25% off)",
+      "cost": "$130",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/ecf3caac-7b55-4969-beb5-98f35bc89564.jpeg?h=365&w=240&dpr=2",
+      "brandName": "PUMA",
+      "type": "Cool Cat Sport Slide Sandal (Men)",
+      "price": "$16.96",
+      "off": "(50% off)",
+      "cost": "$30",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/75dbd837-409e-421c-b0e9-19ab9393c123.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Reebok",
+      "type": "Classic Unicorn Joggers Sneaker for Girls(Baby & Toddler)",
+      "price": "$23.97",
+      "off": "(31% off)",
+      "cost": "$35",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/8799b74d-917a-44b2-bfdf-cabf198c770d.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Adidas",
+      "type": "CARS Sneaker(Girls)",
+      "price": "$36.97",
+      "off": "(26% off)",
+      "cost": "$50",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/1a47d884-76a1-45d1-a67a-abc7d4aebc17.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Adidas",
+      "type": "Kid's Hoops Mid Sneaker (Boys)",
+      "price": "$30.00",
+      "off": "(30% off)",
+      "cost": "$43.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/12da57a2-1c65-4a1b-892c-f7eaf5944e87.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Adidas",
+      "type": "Boys Snekaers",
+      "price": "$32.97",
+      "off": "(23% off)",
+      "cost": "$43.00",
+      "ship": "Free Shipping on Order $89+"
+    }
+  ],
+
+  "bagacessoriesData": [
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/8b97d68a-b896-4db9-81ff-475ef45d418c.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Salvatore Ferragamo",
+      "type": "57mm Square Sun Glass (Mens)",
+      "price": "$89.97",
+      "off": "(75% off)",
+      "cost": "$370.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/bbab9124-7ae5-44ca-a14b-a88adcf15970.jpeg?h=365&w=240&dpr=2",
+      "brandName": "True Religion Brand Jeans",
+      "type": "Horeshoe Line Baseball Cap",
+      "price": "$12.72",
+      "off": "(78% off)",
+      "cost": "$59.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/4c38af1a-4128-4b84-8fc3-3edb41d848bd.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Robert Graham",
+      "type": "The Jedi Sling Bag",
+      "price": "$59.97",
+      "off": "(59% off)",
+      "cost": "$140.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/af6ca257-2124-4c49-960f-201b3f66a8bf.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Trafalgar",
+      "type": "Leather Card case",
+      "price": "$14.96",
+      "off": "(70% off)",
+      "cost": "$50.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/1bc746fb-a3ad-4c17-820e-c8a56d7a4376.jpeg?h=365&w=240&dpr=2",
+      "brandName": "MCM",
+      "type": "60 mm eometric Sunglass (Women)",
+      "price": "$59.97",
+      "off": "(81% off)",
+      "cost": "$330.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/fe7a8203-f5ec-4abf-abdd-8ec9f4e54918.jpeg?h=365&w=240&dpr=2",
+      "brandName": "MCM",
+      "type": "60 mm Reactangle Sunglass (Women)",
+      "price": "$59.97",
+      "off": "(76% off)",
+      "cost": "$255.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/953ea7e9-6363-4577-99aa-b266445778d6.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Kurt Geiger London",
+      "type": "Kenisington Small Camera Bag",
+      "price": "$94.99",
+      "off": "(48% off)",
+      "cost": "$185.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/063a3512-5324-442e-ae51-613af08fc149.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Aimee Kestenberg",
+      "type": "Sanubury Leather Tote Bag",
+      "price": "$139.97",
+      "off": "(64% off)",
+      "cost": "$328",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/37ff9e40-3af7-428b-b6b2-4b04d37a7de1.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Adornia",
+      "type": "Triangle Post Earrings",
+      "price": "$19.98",
+      "off": "(91% off)",
+      "cost": "$225.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/cc38b4c3-bbb4-461a-b5db-12d2e3168117.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Adornia",
+      "type": "Gold Plated Pearl Bracelet ",
+      "price": "$19.98",
+      "off": "(86% off)",
+      "cost": "$150.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/8020d23e-98d0-4b38-b571-c50987a4cf21.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Sterling Forever",
+      "type": "Necklace",
+      "price": "$19.97",
+      "off": "(63% off)",
+      "cost": "$55.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/bc23a94c-f85d-4685-8d56-5777300f63f9.jpeg?h=365&w=240&dpr=2",
+      "brandName": "NORDSTROM RACK",
+      "type": "Stone and Abalone Rings Sets",
+      "price": "$6.48",
+      "off": "(50% off)",
+      "cost": "$12.97",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/ee87eb4f-fd05-46eb-af92-1b414a4da2f9.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Bony Levy",
+      "type": "18K Gold Diamond Earrings",
+      "price": "$374.00",
+      "off": "(62% off)",
+      "cost": "$995.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/4e8622dd-ca9b-465d-af0e-ffbb353c7f6e.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Judith Ripka",
+      "type": "Oval Stone Drop Earrings",
+      "price": "$129.97",
+      "off": "(51% off)",
+      "cost": "$270.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/1354e8c4-677f-48b0-962d-881cad8c221c.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Bony Levy",
+      "type": "14K Gold Heart Stud Earrings",
+      "price": "$",
+      "off": "(% off)",
+      "cost": "$",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/6b7c82cf-a793-409e-b304-92ed204f7789.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Bony Levy",
+      "type": "14K Gold Cross Earrings",
+      "price": "$56.22",
+      "off": "(62% off)",
+      "cost": "$150.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/4d373112-676a-4995-860d-292c27238fa9.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Marc Jacobs",
+      "type": "Mini Leather Bucket Bag",
+      "price": "$209.97",
+      "off": "(53% off)",
+      "cost": "$450",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/27008546-293e-4475-89e6-4bf0854b5957.jpeg?h=365&w=240&dpr=2",
+      "brandName": "kate spade new york",
+      "type": "Mini Margux Leather Satchel",
+      "price": "$119.91",
+      "off": "(51% off)",
+      "cost": "$240.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/8e8a1e48-bcbc-4a9b-9b13-846d9b11a419.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Marc Jacobs",
+      "type": "Mini Toto Colorblock Leather Bag",
+      "price": "$169.97",
+      "off": "(54% off)",
+      "cost": "$375.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/58c2777e-8bb5-4ee5-b029-8f16280e6522.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Luv Betsey by Betsey Johnson",
+      "type": "Harrley Mini bag",
+      "price": "$19.97",
+      "off": "(60% off)",
+      "cost": "$48",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/7978660c-72e6-4050-bf60-87e4d6fca970.jpeg?h=365&w=240&dpr=2",
+      "brandName": "TRAVELPRO",
+      "type": "Roller Master Lite 28 inch Expandable Luggage",
+      "price": "$149.97",
+      "off": "(67% off)",
+      "cost": "$460.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/1f597351-a876-4b4c-8202-3c64cfcc698e.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Vacay",
+      "type": "Spotlight Ombre 20 inch Expandable Suitecase",
+      "price": "$77.97",
+      "off": "(50% off)",
+      "cost": "$159.99",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/ff185c1b-5dfe-4bd8-ae92-6f3554e28845.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Longchamp",
+      "type": "Le Pliage Travel Tote",
+      "price": "$109.97",
+      "off": "(45% off)",
+      "cost": "$199.99",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/f37a992c-03bf-4ae7-974e-a78c0212f2fe.jpeg?h=365&w=240&dpr=2",
+      "brandName": "BOCONI",
+      "type": "Slim Messenger Mailbag",
+      "price": "$119.97",
+      "off": "(59% off)",
+      "cost": "$298.00",
+      "ship": "Free Shipping on Order $89+"
+    }
+  ],
+  "beautyData": [
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/0961a7e5-ee88-44a1-bd1c-b9be54093656.jpeg?h=365&w=240&dpr=2",
+      "brandName": "MAC Cosmetics",
+      "type": "Mac Lipstick",
+      "price": "$9.00",
+      "off": "(50% off)",
+      "cost": "$18.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/6c536423-492d-408e-b9a9-64c42e48f5ad.jpeg?h=365&w=240&dpr=2",
+      "brandName": "MAC Cosmetics",
+      "type": "Mac Mini Traditional Lipstick",
+      "price": "$14.00",
+      "off": "(50% off)",
+      "cost": "$28.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/f695273e-7252-4dde-a910-b7f1079886cb.jpeg?h=365&w=240&dpr=2",
+      "brandName": "MAC Cosmetics",
+      "type": "Mac Eyelinear",
+      "price": "$13.97",
+      "off": "(36% off)",
+      "cost": "$22.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/544c88cf-b947-4e2c-b05d-b5c3244cd1c9.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Urban Decay",
+      "type": "Waterproof Powder",
+      "price": "$24.97",
+      "off": "(43% off)",
+      "cost": "$44.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/d6893ba2-a6b5-41e2-82ae-d1ed08d1838a.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Stila",
+      "type": "Stay All Day Eyelinear",
+      "price": "$24.97",
+      "off": "(21% off)",
+      "cost": "$32.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/2c6be26a-8875-4fc8-b489-db43c4000eca.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Charlotte Tilbury",
+      "type": "Mini Collagan Lip Gloss",
+      "price": "$25.00",
+      "off": "(50% off)",
+      "cost": "$50.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/46021f7a-3d24-4de5-8468-6c9cb10fbe8a.jpeg?h=365&w=240&dpr=2",
+      "brandName": "MAC Cosmetics",
+      "type": "Mac Nine Type Eyeshadows",
+      "price": "$33.00",
+      "off": "(34% off)",
+      "cost": "$50.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/2bf4e04f-0f92-4df2-b71d-ccdf721c0d84.jpeg?h=365&w=240&dpr=2",
+      "brandName": "DANIELLE",
+      "type": "Cosmetic 6 Brush Set",
+      "price": "$12.97",
+      "off": "(50% off)",
+      "cost": "$26.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/c4f0b9ea-b4aa-4bd5-87f8-d0ee498ef16b.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Elemis",
+      "type": "Soothing Apricot Toner",
+      "price": "$14.97",
+      "off": "(58% off)",
+      "cost": "$36.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/982a0966-7d82-4adc-8b85-d78c5f2f8661.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Elemis",
+      "type": "Plumping Facial Sleep Mask",
+      "price": "$26.97",
+      "off": "(58% off)",
+      "cost": "$65.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/fe4b7d05-dc7e-483b-92af-a85e9a605793.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Elemis",
+      "type": "FrangiPani Mohani Shower Cream",
+      "price": "$16.97",
+      "off": "(57% off)",
+      "cost": "$40.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/d45e8f77-386b-4af0-9e98-3f7b3d641824.jpeg?h=365&w=240&dpr=2",
+      "brandName": "TERRE MERE",
+      "type": "Massage Roller",
+      "price": "$26.00",
+      "off": "(78% off)",
+      "cost": "$128",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/4c3abb5b-6d36-487e-bb60-27d314853b99.jpeg?h=365&w=240&dpr=2",
+      "brandName": "ARIA",
+      "type": "Blow Dryer Iconic Technology",
+      "price": "$67.00",
+      "off": "(69% off)",
+      "cost": "$220.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/ad40c341-4dc4-4072-8c47-315ce8b50635.jpeg?h=365&w=240&dpr=2",
+      "brandName": "CORTEX USA",
+      "type": "CORTEX USA Thermal Brush Set -5",
+      "price": "$90.00",
+      "off": "(50% off)",
+      "cost": "$180.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/a6dc5150-1504-4ee7-abc0-905ce967eff2.jpeg?h=365&w=240&dpr=2",
+      "brandName": "CORTEX USA",
+      "type": "CORTEX USA Hair Styler",
+      "price": "$26.97",
+      "off": "(32% off)",
+      "cost": "$39.99",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/ac4a0487-2b2c-434b-be48-706c532f828f.jpeg?h=365&w=240&dpr=2",
+      "brandName": "DR BOTANICALS",
+      "type": "DR BOTANICALS Conditioner",
+      "price": "$21.00",
+      "off": "(55% off)",
+      "cost": "$49.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/ce7eb2d9-b0fc-4904-9e32-a20ed6bc3a89.jpeg?h=365&w=240&dpr=2",
+      "brandName": "AHAVA",
+      "type": "Love Yourself Holiday 3 pcs Gift Set",
+      "price": "$18.00",
+      "off": "(56% off)",
+      "cost": "$44.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/b2136a0c-2b7e-4f14-a7b1-14362c441e2b.jpeg?h=365&w=240&dpr=2",
+      "brandName": "philosophy",
+      "type": "Cozy Bath & Body 4-piece Set",
+      "price": "$29.97",
+      "off": "(40% off)",
+      "cost": "$50.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/c4ef0865-ca16-44ad-91d5-07f9f0472c3c.jpeg?h=365&w=240&dpr=2",
+      "brandName": "C.O. Bigelow",
+      "type": "Rose Slave Lip Balm",
+      "price": "$20.00",
+      "off": "(33% off)",
+      "cost": "$30.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/22948116-fb4e-43bb-ad3c-2c2f98301f17.jpeg?h=365&w=240&dpr=2",
+      "brandName": "L'Occitane",
+      "type": "Almond Eco Refill Shower Oil",
+      "price": "$40.00",
+      "off": "(20% off)",
+      "cost": "$50.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/15f6ffb7-b29b-46f6-ae4f-98032dd7025f.jpeg?h=365&w=240&dpr=2",
+      "brandName": "TONIX",
+      "type": "Body Spray",
+      "price": "$19.97",
+      "off": "(33% off)",
+      "cost": "$30.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/fe71b7bf-9b30-44e1-a1a3-217845395896.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Chloé",
+      "type": "Chloé Love Story Perfume Spray",
+      "price": "$80.00",
+      "off": "(23% off)",
+      "cost": "$105.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/b88edccd-fafa-4a4b-b860-69b14a0b7d6b.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Calvin Klein",
+      "type": "Euphoria for Men Eau de Toiletee- 20ml",
+      "price": "$14.97",
+      "off": "(34% off)",
+      "cost": "$23.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/6e3f2481-1220-4c50-b27b-7fcf1f8514c1.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Dolce&Gabbana",
+      "type": "Dolce&Gabbana Men Eau de Toiletee- 20ml",
+      "price": "$70.00",
+      "off": "(27% off)",
+      "cost": "$96.00",
+      "ship": "Free Shipping on Order $89+"
+    }
+  ],
+
+  "giftData": [
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/a8cbc1a1-e9ad-4682-a7e0-f2dd79f1e43d.jpeg?q=45&fit=fill&fm=jpg&dpr=2&h=408&w=266",
+      "brandName": "Katy Perry",
+      "type": "Geli Sandal (Women)",
+      "price": +21.97,
+      "off": "(73% off)",
+      "cost": "$59.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/1a9dcab0-a72a-40ea-a4cb-7d666309527b.jpeg?h=365&w=240&dpr=1",
+      "brandName": "New Markdown",
+      "type": "59 mm Oversized Glass",
+      "price": "$80.00",
+      "off": "(71% off)",
+      "cost": "$296.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/9f1d46ef-10fe-46fa-bac0-53b5951f7d60.jpeg?h=365&w=240&dpr=2",
+      "brandName": "MERKURY INNOVATIONS ",
+      "type": "Wireless Earbuds",
+      "price": "$12.72",
+      "off": "(57% off)",
+      "cost": "$29.99",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/7a88eaff-3fe2-4658-b76a-7ea36c8ee7e0.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Sterling Forever ",
+      "type": "14 K Gold Earing",
+      "price": "$15.00",
+      "off": "(72% off)",
+      "cost": "$55.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/adce745b-150d-457f-8a28-8443ec04c8eb.jpeg?h=365&w=240&dpr=2",
+      "brandName": "New Markdown",
+      "type": "Levis Two pocket Military Jacket",
+      "price": "$80.00",
+      "off": "(72% off)",
+      "cost": "$180.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/542a84dc-9a81-4fe1-96c3-57a936f66b6c.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Ray-Ban",
+      "type": "59 mm Polarized Sunglasses",
+      "price": "$50.00",
+      "off": "(50% off)",
+      "cost": "$100.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/b33b5296-62c3-4dca-a69c-e8238245d7ed.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Yves Saint Laurent",
+      "type": "Yves Saint Laurent Spray",
+      "price": "$67.00",
+      "off": "(31% off)",
+      "cost": "$99.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/abd0653b-8251-43e8-8a82-0b22a5439f37.jpeg?h=365&w=240&dpr=2",
+      "brandName": "NEST New York",
+      "type": "NEST New York Diffuser",
+      "price": "$32.97",
+      "off": "(38% off)",
+      "cost": "$54.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/27baf2a2-e98f-4a3d-97db-cc245b96d156.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Nike",
+      "type": "All Day Play Hooded Coverall",
+      "price": "$30.00",
+      "off": "(40% off)",
+      "cost": "$50.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/b7f5fd20-ddd4-4c8e-bc29-dba2390bfef5.jpeg?h=365&w=240&dpr=2",
+      "brandName": "NORDSTROM RACK",
+      "type": "Kids Toddler",
+      "price": "$21.97",
+      "off": "(50% off)",
+      "cost": "$44.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/e17dab3c-d2b1-47a8-8502-906296ebef36.jpeg?h=365&w=240&dpr=2",
+      "brandName": "New Markdown",
+      "type": "Kids SwimSuit",
+      "price": "$10.18",
+      "off": "(60% off)",
+      "cost": "$20.97",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/1613cd53-ef55-4f87-8884-1ed1226f30b0.jpeg?h=365&w=240&dpr=2",
+      "brandName": "New Markdown",
+      "type": "Fun Play Dress",
+      "price": "$20.00",
+      "off": "(25% off)",
+      "cost": "$26.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/e6574b6d-ac06-4b0c-942c-3b67cead6de5.jpeg?h=365&w=240&dpr=2",
+      "brandName": "FRIGIDAIRE",
+      "type": "Smoothie Maker Machine",
+      "price": "$25.00",
+      "off": "(16% off)",
+      "cost": "$30.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/e101e4e6-e738-47f5-9439-de7491a867da.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Cuisinart",
+      "type": "2-Slice Toaster",
+      "price": "$60.00",
+      "off": "(45% off)",
+      "cost": "$110.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/4969850c-23df-44dc-a2c9-e978b531d096.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Cuisinart",
+      "type": "Juicing Blender",
+      "price": "$100.00",
+      "off": "(85% off)",
+      "cost": "$185.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/c97d88f1-048c-4f05-85a4-59fc401eefc3.jpeg?h=365&w=240&dpr=2",
+      "brandName": "TIGER",
+      "type": "Rice Cooker and Warmer",
+      "price": "$129.27",
+      "off": "(34% off)",
+      "cost": "$200",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/a356aa4c-68c1-4310-bf21-25b8d10e0763.jpeg?h=365&w=240&dpr=2",
+      "brandName": "BROOKSTONE",
+      "type": "Automatic Wine Opener",
+      "price": "$20.00",
+      "off": "(50% off)",
+      "cost": "$40.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/2fbc0126-09b8-4d91-a03d-214f31cb59c5.jpeg?h=365&w=240&dpr=2",
+      "brandName": "NEST New York",
+      "type": "Bamboo Scented Candle",
+      "price": "$18.00",
+      "off": "(10% off)",
+      "cost": "$20.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/517a1f94-7e3e-4234-906a-7c953d4bf665.jpeg?h=365&w=240&dpr=2",
+      "brandName": "BOMBAY",
+      "type": "Cutting Board",
+      "price": "$30.00",
+      "off": "(42% off)",
+      "cost": "$52.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/7bc3a661-1165-42ec-8a3d-bfba6365c677.jpeg?h=365&w=240&dpr=2",
+      "brandName": "BROOKSTONE",
+      "type": "Compact Wine Opener",
+      "price": "$27.00",
+      "off": "(55% off)",
+      "cost": "$60.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/adcca1ab-83d5-4f81-8e1f-41442bea9a39.jpeg?h=365&w=240&dpr=2",
+      "brandName": "GLAMGLOW",
+      "type": "Clearing Treatment mask",
+      "price": "$25.00",
+      "off": "(50% off)",
+      "cost": "$50.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/359539ad-297b-4255-b4e5-f1dbf5669352.jpeg?h=365&w=240&dpr=2",
+      "brandName": "NORDSTORM",
+      "type": "Jewellery Box",
+      "price": "$20.00",
+      "off": "(33% off)",
+      "cost": "$30.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/95d6a201-7ece-4c0b-b08f-1c82e28c2586.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Urban Decay",
+      "type": "Mini Pallete",
+      "price": "$13.00",
+      "off": "(48% off)",
+      "cost": "$25.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/d0de8358-97d4-4a77-9248-f3cfbb3d1dda.jpeg?h=365&w=240&dpr=2",
+      "brandName": "IZOD",
+      "type": "4 Pcs Travel Size Kit",
+      "price": "$12.99",
+      "off": "(36% off)",
+      "cost": "$19.99",
+      "ship": "Free Shipping on Order $89+"
+    }
+  ],
+  "homeData": [
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/5f597b1b-aac7-4ea5-b009-53cf66216703.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Modern Threads",
+      "type": "Non Slip Bath Mat 2 Set",
+      "price": "$24.97",
+      "off": "(67% off)",
+      "cost": "$78",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/20ba54a8-0ada-4ef9-91a9-7e00d3315030.jpeg?h=365&w=240&dpr=2",
+      "brandName": "ENCHANTE HOME",
+      "type": "Cotton Bath Mat 2 Set",
+      "price": "$49.99",
+      "off": "(60% off)",
+      "cost": "$126.45",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/afa4ee52-5f3b-4c51-9d7a-1dd00886432c.jpeg?h=365&w=240&dpr=2",
+      "brandName": "ENCHANTE HOME",
+      "type": "Sinemans Circle Bath Mat 2 Set",
+      "price": "$41.97",
+      "off": "(46% off)",
+      "cost": "$77.99",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/0682320b-9eb1-4975-96cf-3742fe2b1d63.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Modern Thread",
+      "type": "Cotton Bath Mat 2 Set",
+      "price": "$34.99",
+      "off": "(61% off)",
+      "cost": "$90.75",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/266723e1-023a-4c7d-b3f1-4f949cd51bf0.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Nordstrom",
+      "type": "Cooling Down Alternative Pillow",
+      "price": "$29.98",
+      "off": "(56% off)",
+      "cost": "$69.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/3f1e4ab0-a6b0-4140-a2e0-d85cda719b21.jpeg?h=365&w=240&dpr=2",
+      "brandName": "ELLA JAYNE HOME",
+      "type": "Cooling Gel Pillow Set-2",
+      "price": "$39.99",
+      "off": "(61% off)",
+      "cost": "$95.75",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/88eb4d9a-ba62-4c7d-865f-bb65d8056f15.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Nordstrom",
+      "type": "Bliss Plush Tassel Throw",
+      "price": "$18.00",
+      "off": "(52% off)",
+      "cost": "$39.50",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/1d63326a-8387-4978-bb4b-2767fb8f8cb9.jpeg?h=365&w=240&dpr=2",
+      "brandName": "ENVOGUE",
+      "type": "Merry Christmas Throw Blanket",
+      "price": "$24.97",
+      "off": "(72% off)",
+      "cost": "$89.99",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/bc54001e-5bcd-45cc-8753-eb5276d0addb.jpeg?h=365&w=240&dpr=2",
+      "brandName": "STRATTON HOME DECOR",
+      "type": "Plus Gold Hand Scrulpters",
+      "price": "$39.00",
+      "off": "(33% off)",
+      "cost": "$56.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/a05918ae-57b2-4658-b761-a1db04c104d7.jpeg?h=365&w=240&dpr=2",
+      "brandName": "SORBUS",
+      "type": "Metal and Solid Wood Clock",
+      "price": "$16.08",
+      "off": "(69% off)",
+      "cost": "$52.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/3cfd3bd5-4261-4186-9df9-66f205bab92f.jpeg?h=365&w=240&dpr=2",
+      "brandName": "HOME ESSENTIALS AND BEYOND",
+      "type": "Gold SandTimer",
+      "price": "$35.00",
+      "off": "(33% off)",
+      "cost": "$52.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/360ba594-f741-4c41-a288-29f0573fd950.jpeg?h=365&w=240&dpr=2",
+      "brandName": "GINGER BIRCH STUDIO",
+      "type": "White Ceramic Jar",
+      "price": "$40.00",
+      "off": "(45% off)",
+      "cost": "$75.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/da6ecb9b-b166-40ca-b4a4-0be2cf7e8744.jpeg?h=365&w=240&dpr=2",
+      "brandName": "GreenPan",
+      "type": "Casserole Pot",
+      "price": "$27.00",
+      "off": "(70% off)",
+      "cost": "$60.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/a23f2b43-e4c9-4e0c-91b7-294ca188546c.jpeg?h=365&w=240&dpr=2",
+      "brandName": "KITCHENAID",
+      "type": "Universal Measuring Cup",
+      "price": "$9.97",
+      "off": "(50% off)",
+      "cost": "$20.97",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/d51c5fff-a9bc-40b1-80a8-b0b5015fdab2.jpeg?h=365&w=240&dpr=2",
+      "brandName": "JAY IMPORTS",
+      "type": "Wine Goblet 4 Pcs Set",
+      "price": "$20.00",
+      "off": "(50% off)",
+      "cost": "$40.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/72bc11de-e9a3-4e4c-983e-f5783fae8f76.jpeg?h=365&w=240&dpr=2",
+      "brandName": "SORBUS",
+      "type": "Wine Bottle & Steamware Rack Holder",
+      "price": "$63.97",
+      "off": "(25% off)",
+      "cost": "$85.99",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/de0a6229-abf0-4481-9c7e-5eeceb6d5b02.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Modern Threads",
+      "type": "Luxury Velvet Dog Bed",
+      "price": "$29.97",
+      "off": "(57% off)",
+      "cost": "$69.99",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/7c366586-a4a6-4d80-aad3-29c921bbf1b3.jpeg?h=365&w=240&dpr=2",
+      "brandName": "HOTEL DOGGY",
+      "type": "Flip Skull Sweater",
+      "price": "$17.00",
+      "off": "(32% off)",
+      "cost": "$25.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/c67ce49f-8a05-4a80-ad4f-f51d01626cf4.jpeg?h=365&w=240&dpr=2",
+      "brandName": "MYTAGALONGS",
+      "type": "Soft Tie Dye Print Doggy Leash",
+      "price": "$12.97",
+      "off": "(50% off)",
+      "cost": "$24.97",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/e0fdb4f9-290a-4a26-b8db-71a46e314ad9.jpeg?h=365&w=240&dpr=2",
+      "brandName": "PET LIFE",
+      "type": "Pet Carrier",
+      "price": "$50.00",
+      "off": "(12% off)",
+      "cost": "$58.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/41eb895b-4ce8-4610-99c1-4165a8e5b9ee.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Linum Home Textiles",
+      "type": "Chaise Lawn Cover With Side Pocket",
+      "price": "$70.00",
+      "off": "(46% off)",
+      "cost": "$130.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/e372cea7-0515-4c12-9244-01fd17511065.jpeg?h=365&w=240&dpr=2",
+      "brandName": "TOSCANA",
+      "type": "Cheese Cutting Set and Board",
+      "price": "$43.00",
+      "off": "(10% off)",
+      "cost": "$48.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/60085627-4f8d-4b0c-ae36-a05afd34aedb.jpeg?h=365&w=240&dpr=2",
+      "brandName": "Picnic Time",
+      "type": "Beer Caddy Cooler Tote with Opener",
+      "price": "$40.00",
+      "off": "(9% off)",
+      "cost": "$43.00",
+      "ship": "Free Shipping on Order $89+"
+    },
+    {
+      "img": "https://n.nordstrommedia.com/id/sr3/d69ab29d-5f23-4151-8c90-6290d1ac16c5.jpeg?h=365&w=240&dpr=2",
+      "brandName": "TOSCANA",
+      "type": "Sercing Ladder",
+      "price": "$90.00",
+      "off": "(9% off)",
+      "cost": "$98.00",
+      "ship": "Free Shipping on Order $89+"
+    }
+  ],
+  "kids": [
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/7ed71c08-f04e-4797-b7e6-44d7e32d9731.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Long Sleeve Jersey Footie & Hat Set (Baby)",
+      "price": "$64 (15% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/f3588ee9-e4ab-4625-abc4-db3c5521d89a.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Kids' Faux Fur Coverall (Baby Boys)          ",
+      "price": "$44 (16% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/28dc83d1-3089-4d12-aebc-ce429fd37cd3.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Glito",
+      "price": "$12 (26% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/76d9e992-3c1a-43fa-935a-a3e5d9a8c31c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Kids' Nordstrom Baby Print Footie (Baby)",
+      "price": "$214 (36% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/9ecf6f5b-d595-4f56-b090-ee650490601c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Kids' NORDSTROM RACK Joggers - Pack of 2 (Baby Boys)",
+      "price": "$34 (6% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/74744abe-b590-439c-8510-cd58a6524782.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Velour Sweatsuit Set",
+      "price": "$13 (14% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/2b8ec591-1d5d-47b2-9197-7510a9d3d70b.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": " Camo Print T-Shirt & Shorts Set",
+      "price": "$24 (16% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/252f9797-fd50-4ecf-a4d0-7148daa1afb7.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "  Kids' 3-Piece Koala Hoodie Set",
+      "price": "$12(16% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/d0e4e580-d1ff-488c-8b00-5df6c2a50b66.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Fuzzy Bear Pram",
+      "price": "$23 (11% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/78903fe5-8130-42d3-bcc3-a89a6a17ad3a.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Halloween Long Sleeve Bodysuit & Pants Set",
+      "price": "$24 (16% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/8b3a63a6-3781-4c77-a4b2-3a5b8bc8cbe9.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": " Blues Tie Dye Coverall",
+      "price": "$29 (46% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/27ffd4a6-54f2-4f66-bc58-b103ce2d1891.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Kids' Quilted Coverall",
+      "price": "$34 (16% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/d6e2f947-87d5-4781-a7b3-a9bdd3b9dd5b.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "T-Rex Cotton Graphic Sweatshirt & Pants Set",
+      "price": "$13 (16% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/55d3dce9-eae8-411f-973b-555f08aa78e4.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "Adidas",
+      "price": "$34 (16% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/27baf2a2-e98f-4a3d-97db-cc245b96d156.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+      "name": "All Day Play Hooded Coverall (Baby Boys 0-",
+      "price": "$44 (16% off)"
+    }
+  ],
+  "mens": [
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20210218/pbkK/602d73137cdb8c1f1442c8e2/nike_blue_dri-fit_zip-front_bomber_jacket_with_insert_pockets.jpg",
+      "name": "Nike",
+      "price": "$44 (16% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20210831/gy8l/612d4bc5f997ddce89b3485b/adidas_black_%26_grey_colourblock_zip-front_hooded_jacket.jpg",
+      "name": "Adidas",
+      "price": "$64 (15% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20211210/sOrJ/61b35419f997ddf8f14bad84/fort_collins_black_%26_grey_quilted_zip-front_reversible_jacket.jpg",
+      "name": "Polo",
+      "price": "$44 (16% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20210824/bfeC/61241628f997ddce89a90a47/performax_black_heathered_hoodie_with_kangaroo_pockets.jpg",
+      "name": "Glito",
+      "price": "$12 (26% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20210909/pH6r/613a29ba7cdb8cb8241f3ea1/teamspirit_blue_zip-front_gillet_with_zipper_pockets.jpg",
+      "name": "Polo",
+      "price": "$214 (36% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20220818/22eZ/62fde1bdf997dd394c018b73/ivoc_olive_green_slim_fit_shirt_with_flap_pockets.jpg",
+      "name": "Lee Cooper",
+      "price": "$34 (6% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20211125/Vndi/619ecbd2f997ddf8f11a491c/7shores_white_printed_slim_fit_shirt.jpg",
+      "name": "Slim Shirt",
+      "price": "$13 (14% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20210609/kF80/60bfbe2eaeb269a9e3dfca94/nike_grey_sportswear_club_pullover_hoodie_with_kangaroo_pockets.jpg",
+      "name": "Pull Over",
+      "price": "$24 (16% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/h8c/h58/11941464539166/campus_sutra_blue_hooded_zip-front_sweatshirt.jpg",
+      "name": "Hoooded-Zip",
+      "price": "$12(16% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20211123/he7U/619ce1b6aeb2690110d2d105/puma_blue_brand_print_hoodie_with_kangaroo_pocket.jpg",
+      "name": "Puma",
+      "price": "$23 (11% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20210913/dnE0/613f755d7cdb8cb824201c54/dnmx_blue_superman_graphic_print_crew-neck_sweatshirt.jpg",
+      "name": "Noson",
+      "price": "$24 (16% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20211115/RZQI/61927bfeaeb2690110c49168/lee_cooper_olive_zip-front_drawstring_hoodie.jpg",
+      "name": "Lee Cooper",
+      "price": "$29 (46% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20211027/lgmU/61784c0ef997ddf8f1ea5f27/u.s._polo_assn._white_brand_print_crew-neck_sweatshirt.jpg",
+      "name": "US Polo",
+      "price": "$34 (16% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20211208/M1nY/61affc51f997ddf8f146b5f4/levis_grey_zip-front_hoodie.jpg",
+      "name": "Levis",
+      "price": "$13 (16% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20220113/BcVV/61df2326f997dd66231dfbb9/netplay_burgundy_high-neck_sweatshirt_with_ribbed_hems.jpg",
+      "name": "Net Play",
+      "price": "$34 (16% off)"
+    }
+  ],
+  "shoes": [
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/6bb86500-c977-4528-be2c-91ee20e25519.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "name": "Clifton Edge Running Shoe",
+      "price": "$64 (15% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/ca59af61-f901-4d58-a2a3-3761585bce2c.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "name": "Revolution 6 Next Nature Road Running Shoe",
+      "price": "$44 (16% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/da0ef2c1-7061-4ad3-83c7-a1ab2b72d142.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "name": "Nike Air Max SC Sneaker (Men)",
+      "price": "$12 (26% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/d08d1eba-dc38-468e-a544-8243a27de74a.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "name": "Grand Crosscourt Premier Sneaker COLE HAAN",
+      "price": "$214 (36% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/8081964c-4ec4-415e-8204-c7bff08dc089.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "name": " Recycled Leather Low Top Sneaker KARL LAGERFELD PARIS",
+      "price": "$34 (6% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/f617b017-2acd-418f-93cd-7af5b9f78adb.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "name": "Lite Racer Lace-up Activewear Sneaker ADIDAS",
+      "price": "$13 (14% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/68e8fadc-4997-45c0-a3ac-77f4b1e173c6.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "name": " GrandPro Rally Canvas Court Sneaker COLE HAAN",
+      "price": "$24 (16% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/93082e0c-1940-4568-bf1b-be838a159fb0.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "name": " Karl Head Sneaker KARL LAGERFELD PARIS",
+      "price": "$12(16% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/5a9dfe95-81d3-4010-bca7-e26bf6a10b1b.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "name": "515 Classic Running Sneaker NEW BALANCE",
+      "price": "$23 (11% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/1904f3fc-7664-4420-94cc-4b0a493442df.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "name": "Grand Court 2.0 Sneaker ADIDAS",
+      "price": "$24 (16% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/5843ef44-f58b-42dc-9059-c7fcdbd9dad7.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "name": "Born Ashram II Lace-Up Sneaker BØRN",
+      "price": "$29 (46% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/ab57a760-d112-4f3d-bef8-8705aebbbe39.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "name": "Electron 2.0 Open Road Athletic Sneaker PUMA",
+      "price": "$34 (16% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/b2711f6f-b11d-46f8-8112-1406a1fc6ce5.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "name": "Court Legacy Sneaker NIKE",
+      "price": "$13 (16% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/67d3b0a6-6ab3-4b9f-be0b-35f8adf32ab6.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "name": "Brecon Signature Sneaker TOMMY HILFIGER",
+      "price": "$34 (16% off)"
+    },
+
+    {
+      "src": "https://n.nordstrommedia.com/id/sr3/ce6b565b-0879-4b39-9879-c1106bf9ab08.jpeg?crop=pad&pad_color=FFF&format=jpeg&trim=color&trimcolor=FFF&w=780&h=838",
+      "name": "Asher Slip-On Sneaker VANS",
+      "price": "$44 (16% off)"
+    }
+  ],
+  "women": [
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20211116/a9qN/6193d8e1aeb2690110c749f7/levis_blue_lightly_washed_mid-rise_skinny_jeans.jpg",
+      "name": "Levis",
+      "price": "$44 (16% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20210830/iV8G/612d00d4aeb269a26882292a/levis_navy_blue_high-neck_zip-front_jacket_with_insert_pockets.jpg",
+      "name": "Levis",
+      "price": "$64 (15% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20210830/dQR0/612cf85a7cdb8cb8240c4550/levis_black_joggers_with_contrast_side_taping.jpg",
+      "name": "Polo",
+      "price": "$44 (16% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20220310/4yG6/6228fa3aaeb26921afcfd6ff/levis_blue_mid-rise_denim_shorts_with_raw_hemline.jpg",
+      "name": "Leivs",
+      "price": "$22 (26% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20220223/tIdb/6215512ff997dd03e2e71f4f/levis_pink_logo_print_crew-neck_t-shirt.jpg",
+      "name": "Levis",
+      "price": "$24 (16% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20220803/Dewf/62ea9410aeb26921afc2e8ca/levis_blue_denim_button-down_jacket_with_flap_pockets.jpg",
+      "name": "Denim",
+      "price": "$14 (16% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20220429/Sdi2/626c09b3aeb26921af4c0e26/levis_white_shirt_with_concealed_placket.jpg",
+      "name": "Olo",
+      "price": "$14 (16% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20220804/LNY9/62ebf1bdf997dd03e222e718/levis_green_quilted_zip-front_biker_jacket.jpg",
+      "name": "Wellos",
+      "price": "$24 (16% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20210805/GAze/610bdb9faeb269a2686acc93/levis_pink_textured_round-neck_t-shirt.jpg",
+      "name": "Puma",
+      "price": "$24 (16% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20220223/qZDK/62153971aeb26921afadb592/levis_pink_floral_print_boat-neck_sleevless_top.jpg",
+      "name": "Adidas",
+      "price": "$24 (16% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20220223/CnSZ/62155bfdf997dd03e2e7854d/levis_pink_schifli_embroidered_high-neck_top.jpg",
+      "name": "Noson",
+      "price": "$24 (16% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20210625/PRNB/60d4dc36f997ddb312ed8bbe/levis_green_printed_slim_fit_ankle-length_joggers.jpg",
+      "name": "Lee Cooper",
+      "price": "$29 (46% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20210830/qG5T/612cf49a7cdb8cb8240c39c9/levis_red_high-neck_zip-front_jacket_with_insert_pockets.jpg",
+      "name": "Levis",
+      "price": "$34 (16% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20220211/qgjD/6206827df997dd03e2cc64a1/levis_black_zip-front_hoodie_with_split_kangaroo_pockets.jpg",
+      "name": "Olonk",
+      "price": "$14 (16% off)"
+    },
+
+    {
+      "src": "https://assets.ajio.com/medias/sys_master/root/20220223/qBb9/62153eadaeb26921afadc745/levis_yellow_ribbed_boat-neck_top.jpg",
+      "name": "Mink",
+      "price": "$24 (16% off)"
+    }
+  ]
+}
